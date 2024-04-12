@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c#\\c#.csproj": {}
+    "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c_sharp\\test01\\c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c#\\c#.csproj": {
+    "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c_sharp\\test01\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c_sharp\\test01\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c#\\c#.csproj",
+        "projectPath": "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c_sharp\\test01\\c#.csproj",
         "packagesPath": "C:\\Users\\gokse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c#\\obj\\",
+        "outputPath": "C:\\Users\\gokse\\OneDrive\\Belgeler\\SourceCode\\c_sharp\\test01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokse\\AppData\\Roaming\\NuGet\\NuGet.Config"
